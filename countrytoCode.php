@@ -101,7 +101,7 @@
 		'Guinea-Bissau' => '+245',
 		'Guyana' => '+592',
 		'Haiti' => '+509',
-		'Heard Island and McDonald Islands' => '??',
+		'Heard Island and McDonald Islands' => '+599',
 		'Holy See (Vatican City State)' => '+379',
 		'Honduras' => '+504',
 		'Hong Kong' => '+852',
