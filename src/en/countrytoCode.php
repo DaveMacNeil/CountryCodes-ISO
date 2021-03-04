@@ -2,7 +2,7 @@
 /*
 	This array Matches the country by full name to the countries calling code.
 */
-	$country = array(,
+	$country = array(
 		'Afghanistan' => '+93',
 		'Aland Islands' => '+358'
 		'Albania' => '+355',
