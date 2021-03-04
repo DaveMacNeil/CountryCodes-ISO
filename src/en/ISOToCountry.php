@@ -1,6 +1,6 @@
 <?php
 /*
-	This array Matches a country by its 2 digit ISO code to its dialing number.
+	This array Matches a country by its 2 digit ISO code to its Country name
 */
 	$country = array(
 		'AF' => 'Afghanistan',
