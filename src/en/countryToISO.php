@@ -2,7 +2,7 @@
 /*
 	This array will uses a country name as reference to get a countries 2 digit ISO code.
 */
-	$country = array(,
+	$country = array(
 		'Afghanistan' => 'AF',
 		'Aland Islands' => 'AX',
 		'Albania' => 'AL',
